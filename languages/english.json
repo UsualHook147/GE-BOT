@@ -1679,7 +1679,7 @@
       "helpPageSelect": {
         "title": " Help Menu",
         "footer": ":GE: Ghost Express",
-        "by": ""
+        ":GE:": "Ghost Express"
       },
 
       "inventorySelect": {
