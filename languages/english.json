@@ -1679,6 +1679,7 @@
       "helpPageSelect": {
         "title": " Help Menu",
         "footer": ":GE: Ghost Express",
+        "ge": ":GE:",
         ":GE:": "Ghost Express"
       },
 
