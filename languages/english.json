@@ -163,7 +163,7 @@
           "setColor": "What color would you like to set the embed to?",
           "setThumbnailImage": "What would you like to set the thumbnail image to?",
           "setLargeImage": "What would you like to set the large image to?",
-          "setFooterImage": "What would you like to set the footer image to?",
+          "setImage": "What would you like to set the  image to?",
           "channelToPost": "What channel would you like to post this to?",
           "fieldName": "What should the name of this field be?",
           "fieldValue": "What should the value of this field be?",
@@ -1669,7 +1669,7 @@
         "winners": "Winners:",
         "time": "Time Limit:",
         "winners2": "**Winners**",
-        "footer": "Giveaway by: ",
+        "": "Giveaway by: ",
         "endError": "GIVEAWAY ENDING ERROR: ",
         "uNot": "You did not create this giveaway.",
         "wait1": "You need to wait for the giveaway to finish in order to re-roll!",
@@ -1678,7 +1678,7 @@
 
       "helpPageSelect": {
         "title": " Help Menu",
-        "footer": "Made with",
+        "footer": ":GE: Ghost Express",
         "by": "by"
       },
 
