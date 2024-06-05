@@ -1678,6 +1678,8 @@
 
       "helpPageSelect": {
         "title": " Help Menu",
+        "footer": "Made for",
+        "by": "UsualHook147",
       },
 
       "inventorySelect": {
